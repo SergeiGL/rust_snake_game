@@ -1,2 +1,1 @@
-# rust_snake_game
-rust_snake_game
+# Snake game written in Rust
